@@ -1,0 +1,73 @@
+{
+  "prescriptions": [
+    {
+      "id": 1,
+      "icon": "previewtablet.png",
+      "medicationName": "Lisinopril",
+      "medicationName2": "Amoxilin",
+      "iconcard1": "Visa.svg",
+      "iconcard2": "MasterCard.svg",
+
+      "dosage": "20mg",
+      "quantity": 30,
+      "assignedTo": "John Doe",
+      "refillDueDate": "2025-01-30",
+      "lastCopay": "$5.00",
+      "refillsRemaining": 2,
+      "autoRefill": "Enable Auto Refill",
+      "deliveryType": "Delivery ",
+      "address": "297 Cazenovia St. East Aurora, NY 1929",
+      "deliveryDate": "Tomorrow, Oct 20",
+      "deliveryTime": "1:00-3:00pm",
+      "deliveryInstructions": "Please use the child safety cap for added security in my household.",
+      "InsuranceType": "Cigna Premium",
+      "paymentOptions": ["Visa ****6475", "MasterCard ****8463"],
+      "estimatedTotal": "$19.20",
+      "additionalDetails": "For assistance with your prescription costs, please call Vivo's Financial Counselors.",
+      "selectedPaymentOption": "creditcard"
+    },
+    {
+      "id": 2,
+      "icon": "previewtablet.png",
+      "iconcard1": "Visa.svg",
+      "iconcard2": "MasterCard.svg",
+
+      "medicationName": "Amoxilin",
+      "medicationName2": "Amoxilin",
+      "dosage": "500mg",
+      "quantity": 20,
+      "assignedTo": "Jane Smith",
+      "refillDueDate": "2025-02-15",
+      "lastCopay": "$3.00",
+      "refillsRemaining": 1,
+      "autoRefill": "Enable Auto Refill",
+      "deliveryType": "Payment ",
+      "address": "297 Cazenovia St. East Aurora, NY 1929",
+      "deliveryDate": "Tomorrow, Oct 20",
+      "deliveryTime": "1:00-3:00pm",
+      "deliveryInstructions": "Please use the child safety cap for added security in my household.",
+      "InsuranceType": "Cigna Premium",
+      "paymentOptions": ["Visa ****6475", "MasterCard ****8463"],
+      "estimatedTotal": "$7.20",
+      "additionalDetails": "For assistance with your prescription costs, please call Vivo's Financial Counselors.",
+      "selectedPaymentOption": "creditcard"
+    }
+  ],
+  "homeAddress": [
+    {
+      "name": "Home address",
+      "address": "297 Cazenovia St. East Aurora, NY 1929",
+      "Mobile": "(212) 555-1234"
+    },
+    {
+      "name": "John's address",
+      "address": "297 Cazenovia St. East Aurora, NY 1929",
+      "Mobile": "(212) 555-1234"
+    },
+    {
+      "name": "Mom's address",
+      "address": "297 Cazenovia St. East Aurora, NY 1929",
+      "Mobile": "(212) 555-1234"
+    }
+  ]
+}

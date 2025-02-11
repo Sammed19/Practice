@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Pharmacy One",
+    "address": "123 Main Street, New York, NY 10001",
+    "latitude": 40.748817,
+    "longitude": -73.985428,
+    "openingTime": "8:00 AM",
+    "closingTime": "8:00 PM",
+    "distance": {
+      "walking": {
+        "time": "15 minutes",
+        "miles": "0.8 mi"
+      },
+      "driving": {
+        "time": "5 minutes",
+        "miles": "0.8 mi"
+      }
+    },
+    "timeSlots": {
+      "2025-01-20": [
+        "8:00 AM - 9:00 AM",
+        "10:00 AM - 11:00 AM",
+        "2:00 PM - 3:00 PM",
+        "6:00 PM - 7:00 PM"
+      ],
+      "2025-01-21": [
+        "8:30 AM - 9:30 AM",
+        "11:00 AM - 12:00 PM",
+        "3:00 PM - 4:00 PM",
+        "7:00 PM - 8:00 PM"
+      ]
+    }
+  },
+  {
+    "name": "Pharmacy Two",
+    "address": "456 Broadway, New York, NY 10012",
+    "latitude": 40.724274,
+    "longitude": -73.997551,
+    "openingTime": "9:00 AM",
+    "closingTime": "9:00 PM",
+    "distance": {
+      "walking": {
+        "time": "25 minutes",
+        "miles": "1.2 mi"
+      },
+      "driving": {
+        "time": "10 minutes",
+        "miles": "1.2 mi"
+      }
+    },
+    "timeSlots": {
+      "2025-01-20": [
+        "9:00 AM - 10:00 AM",
+        "12:00 PM - 1:00 PM",
+        "4:00 PM - 5:00 PM",
+        "8:00 PM - 9:00 PM"
+      ],
+      "2025-01-21": [
+        "9:30 AM - 10:30 AM",
+        "1:00 PM - 2:00 PM",
+        "5:00 PM - 6:00 PM",
+        "8:30 PM - 9:30 PM"
+      ]
+    }
+  },
+  {
+    "name": "Pharmacy Three",
+    "address": "789 5th Avenue, New York, NY 10022",
+    "latitude": 40.763435,
+    "longitude": -73.974183,
+    "openingTime": "7:00 AM",
+    "closingTime": "10:00 PM",
+    "distance": {
+      "walking": {
+        "time": "20 minutes",
+        "miles": "1.0 mi"
+      },
+      "driving": {
+        "time": "7 minutes",
+        "miles": "1.0 mi"
+      }
+    },
+    "timeSlots": {
+      "2025-01-20": [
+        "7:00 AM - 8:00 AM",
+        "9:00 AM - 10:00 AM",
+        "3:00 PM - 4:00 PM",
+        "6:00 PM - 7:00 PM"
+      ],
+      "2025-01-21": [
+        "7:30 AM - 8:30 AM",
+        "10:00 AM - 11:00 AM",
+        "4:00 PM - 5:00 PM",
+        "7:30 PM - 8:30 PM"
+      ]
+    }
+  },
+  {
+    "name": "Pharmacy Four",
+    "address": "101 Lexington Avenue, New York, NY 10016",
+    "latitude": 40.741061,
+    "longitude": -73.982089,
+    "openingTime": "8:30 AM",
+    "closingTime": "7:30 PM",
+    "distance": {
+      "walking": {
+        "time": "30 minutes",
+        "miles": "1.5 mi"
+      },
+      "driving": {
+        "time": "12 minutes",
+        "miles": "1.5 mi"
+      }
+    },
+    "timeSlots": {
+      "2025-01-20": [
+        "8:30 AM - 9:30 AM",
+        "11:30 AM - 12:30 PM",
+        "2:30 PM - 3:30 PM",
+        "6:30 PM - 7:30 PM"
+      ],
+      "2025-01-21": [
+        "9:00 AM - 10:00 AM",
+        "12:00 PM - 1:00 PM",
+        "3:30 PM - 4:30 PM",
+        "7:00 PM - 8:00 PM"
+      ]
+    }
+  }
+]
